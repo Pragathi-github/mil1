@@ -7,7 +7,7 @@ Request Body (Raw JSON):
 
 {
   "id": "1",
-  "name": "Pizza",
+  "name": "chapathi",
   "price": 9.99,
   "category": "Main Course"
 }
@@ -29,7 +29,7 @@ json
 [
   {
     "id": "1",
-    "name": "Pizza",
+    "name": "Chapathi",
     "price": 9.99,
     "category": "Main Course"
   }

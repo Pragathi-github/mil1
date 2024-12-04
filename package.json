@@ -1,0 +1,9 @@
+{
+    "name": "food-delivery-backend",
+    "version": "1.0.0",
+    "main": "app.js",
+    "dependencies": {
+        "express": "^4.21.1",
+        "node-cron": "^3.0.0"
+    }
+}
